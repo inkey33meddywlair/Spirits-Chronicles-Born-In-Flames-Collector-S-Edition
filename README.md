@@ -205,3 +205,6 @@ This repository serves as the official landing page for Spirits Chronicles: Born
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Spirits Chronicles: Born in Flames today!**
+
+---
+**Last updated:** 2026-11-07 17:26:26 UTC
