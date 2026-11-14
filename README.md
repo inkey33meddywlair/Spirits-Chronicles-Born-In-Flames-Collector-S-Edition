@@ -207,4 +207,4 @@ This repository serves as the official landing page for Spirits Chronicles: Born
 **Get the most recent version of Spirits Chronicles: Born in Flames today!**
 
 ---
-**Last updated:** 2026-11-14 15:34:05 UTC
+**Last updated:** 2026-11-14 20:25:06 UTC
